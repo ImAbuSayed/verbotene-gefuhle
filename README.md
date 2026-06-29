@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/verbotene-gefuhle/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Verbotene Gefühle](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verbotene-gefuhle/) |
+| **Get License** | [Commercial Licensing for Verbotene Gefühle](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verbotene-gefuhle/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b9321f2c91857a949c52ccf44e0f727bccca2af8a9cdbbe014cd87f2b93e7516` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

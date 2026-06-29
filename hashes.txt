@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Verbotene Gefühle
+
+This log tracks the cryptographic history and versioning for the song **Verbotene Gefühle** (verbotene-gefuhle).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-30T03:51:30.603247 | `v1` | `b9321f2c91857a949c52ccf44e0f727bccca2af8a9cdbbe014cd87f2b93e7516` | `89b63b0631014dac8251e837ccb15cf65950f58d69595e805be9aa35bdfbee53` | `2026-06-30_verbotene-gefuhle-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
