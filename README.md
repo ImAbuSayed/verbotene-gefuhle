@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/verbotene-gefuhle/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Verbotene Gefühle](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verbotene-gefuhle/) |
+| **Get License** | [Obtain a Music License for Verbotene Gefühle](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/verbotene-gefuhle/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Schwarzer AMG, Fenster unten, wir fahr'n durch die Nacht.. Skrrt..
+> Baby, dieser Vibe hat was Verbotenes in mir entfacht
+> Du bist dangerous, doch dein Blick zieht mich magisch an
+> Lass uns Grenzen brechen, zeig mir, was dein Body kann
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
